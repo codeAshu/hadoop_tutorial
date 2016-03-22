@@ -1,0 +1,6 @@
+centos Machine/
+presentations/
+.DS_Store
+.ipynb_checkpoints/
+.vagrant/
+*.tar.gz
